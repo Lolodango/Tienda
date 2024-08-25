@@ -28,7 +28,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-src/main/resources/firebase/techshop-ea2d4-firebase-adminsdk-gkbi1-0d0d6d78b1.json
 
 ### VS Code ###
 .vscode/
